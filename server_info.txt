@@ -1,0 +1,4 @@
+IP_ADDRESS=192.168.0.123
+PORT_NUMBER=26900
+PASSWORD=some_pw
+GOOGLE_DRIVE_LINK=https://drive.google.com/drive/folders/your_drive_url
