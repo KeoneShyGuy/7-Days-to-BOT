@@ -1,0 +1,12 @@
+config.txt
+server_info.txt
+telnet_test.py
+.env
+*.cfg
+build
+dist
+Include
+Lib
+mods
+Scripts
+__pycache__
